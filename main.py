@@ -9,7 +9,7 @@ def check_character(word, index):
         return "white space"
     else:
         return "unknown"
-          
+#pushing it all again rn and making sure the autograder works
 #hopefully fork is working
 if __name__ == '__main__': 
     print(check_character('happy birthday', 2))
